@@ -1,6 +1,6 @@
 body
 {
-   color:chocolate;
+   color:palevioletred;
     text-align: center;
     font-family: "arial";
     font-size: 16px;
@@ -10,7 +10,7 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: solid #ddd;
 }
 #container h1
