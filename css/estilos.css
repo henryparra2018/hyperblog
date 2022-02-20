@@ -3,4 +3,17 @@ body
    color:chocolate;
     text-align: center;
     font-family: "arial";
+    font-size: 16px;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: solid #ddd;
+}
+#container h1
+{
+    font-size: 20px;
 }
